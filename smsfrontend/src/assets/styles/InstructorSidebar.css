@@ -1,8 +1,0 @@
-.active {
-  color: var(--theme-color);
-  background-color: unset;
-}
-
-.active:hover {
-  color: var(--theme-color);
-}
